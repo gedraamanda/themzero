@@ -1,0 +1,34 @@
+{
+  "name": "wordpress-zero",
+  "version": "1.0.0",
+  "description": "Projeto para inicio de temas wordpress",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "themes"
+  ],
+  "author": "Amanda Gedra",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-phplint": "^0.9.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.5.1",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-uglify-es": "^2.0.0",
+    "svgo": "^1.3.2"
+  }
+}
