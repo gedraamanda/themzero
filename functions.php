@@ -1,6 +1,6 @@
 <?php
 //Includes
-include dirname( __FILE__ ) . '/functions/credibilidade.php';
+//include dirname( __FILE__ ) . '/functions/credibilidade.php';
 
 /*
  * Remove &nbsp dos posts;
